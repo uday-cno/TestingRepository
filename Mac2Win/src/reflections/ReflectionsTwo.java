@@ -17,7 +17,7 @@ public class ReflectionsTwo {
 			System.out.println(method);
 			method.invoke(m, null);
 		*/	
-		System.out.println("hello");	
+		System.out.println("hello");	 
 		}
 		 
 
